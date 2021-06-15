@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "remove-skimlinks@gmail.com": {
+      "updates": [
+        {
+          "version": "0.1",
+          "update_link": "https://github.com/leipreachan/remove-skimlinks/releases/download/0.1/remove-skimlinks-0.1-an.fx.xpi"
+        }
+      ]
+    }
+  }
+}
